@@ -1,0 +1,20 @@
+{
+  "name": "invoice_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rabbitmq.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "amqplib": "^2.2.0",
+    "dotenv": "^18.0.4",
+    "express": "^5.2.1",
+    "pdfkit": "^0.20.2"
+  }
+}
