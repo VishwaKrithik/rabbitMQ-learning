@@ -1,0 +1,1 @@
+Set ram allocation to 2 % or 5 % run monitor.js and then producer.js. Observe Qurom queue.
